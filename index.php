@@ -10,7 +10,7 @@
 
     
     <form action="login.php" class="container card p-5 m-5" method="post">
-    <h1 class="text-center">Faça seu login abaixo:</h1>
+    <h1 class="text-center">Login:</h1>
         <div class="mb-3">
             <label for="nome" class="form-label">Nome</label>
             <input type="text" name="nome" class="form-control" id="nome">
